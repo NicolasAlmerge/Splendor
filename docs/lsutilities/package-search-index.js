@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"ca.mcgill.nalmer.lsutilities.controller"},{"l":"ca.mcgill.nalmer.lsutilities.data"},{"l":"ca.mcgill.nalmer.lsutilities.model"}];updateSearchResults();

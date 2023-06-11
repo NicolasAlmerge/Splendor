@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"splendor.controller"},{"l":"splendor.model"},{"l":"splendor.view"}];updateSearchResults();
